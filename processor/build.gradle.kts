@@ -29,6 +29,9 @@ dependencies {
     implementation("com.google.devtools.ksp:symbol-processing-api:2.0.10-1.0.24")
     implementation("com.squareup:kotlinpoet-ksp:1.18.1")
     implementation("org.jetbrains.kotlin:kotlin-metadata-jvm:2.0.10")
+    testImplementation(kotlin("test"))
+    testImplementation("com.github.tschuchortdev:kotlin-compile-testing:1.6.0")
+    testImplementation("com.github.tschuchortdev:kotlin-compile-testing-ksp:1.6.0")
 
 
 }
