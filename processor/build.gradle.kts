@@ -32,6 +32,4 @@ dependencies {
     testImplementation(kotlin("test"))
     testImplementation("com.github.tschuchortdev:kotlin-compile-testing:1.6.0")
     testImplementation("com.github.tschuchortdev:kotlin-compile-testing-ksp:1.6.0")
-
-
 }

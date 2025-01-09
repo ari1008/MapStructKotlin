@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56bb7879-36a8-445e-8b35-afcdd3f20bb5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/annotation/src/main/kotlin/MapperClass.kt" beforeDir="false" afterPath="$PROJECT_DIR$/annotation/src/main/kotlin/MapperClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotation/src/main/kotlin/Mapping.kt" beforeDir="false" afterPath="$PROJECT_DIR$/annotation/src/main/kotlin/Mapping.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/processor/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/MapperProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/processor/src/main/kotlin/MapperProcessor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/domain/AnnotationValue.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/domain/Class.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/domain/DataClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/domain/Function.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/domain/FunctionAnnotation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/domain/Property.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/domain/function/Content.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/poet/KotlinFunctionPoetService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processor/src/main/kotlin/poet/KotlinPoetService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/project/build.gradle.kts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/project">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StateOfArt" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StateOfArt" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="StateOfArt" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Annotation" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ari1008&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ari1008/MapStructKotlin.git&quot;,
+    &quot;accountId&quot;: &quot;ed3d3c9d-1c9f-4b61-a0e5-51ed3a0a3c62&quot;
+  }
+}</component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mU0RcN6wJz5x4Og2gyWjQJDyYQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Gradle.Build StateOfArt.executor": "Run",
+    "Gradle.MapperClassTest.executor": "Debug",
+    "Gradle.StateOfArt [buildNeeded].executor": "Run",
+    "Gradle.StateOfArt [build].executor": "Run",
+    "Gradle.StateOfArt [cleanBuildWithKspDebug].executor": "Run",
+    "Gradle.StateOfArt [clean].executor": "Run",
+    "Gradle.StateOfArt [debugKsTWOp].executor": "Debug",
+    "Gradle.StateOfArt [debugKspTwo].executor": "Debug",
+    "Gradle.StateOfArt [debugKsp].executor": "Run",
+    "Gradle.StateOfArt [init].executor": "Run",
+    "Gradle.StateOfArt [printCompileClasspath].executor": "Run",
+    "Gradle.StateOfArt:project [buildDependents].executor": "Run",
+    "Gradle.StateOfArt:project [build].executor": "Run",
+    "Gradle.Tests in 'StateOfArt.processor.test'.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "Remote JVM Debug.debug ksp.executor": "Debug",
+    "Remote JVM Debug.remote .executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "start",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/aristidefumo/Documents/school/fyk/StateOfArt",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.20114942",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/processor/src/test/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/processor/src/test/resources/number1/start" />
+      <recent name="$PROJECT_DIR$/processor/src/test/resources/numero-1" />
+      <recent name="$PROJECT_DIR$/processor/src/test/resources/com/test" />
+      <recent name="$PROJECT_DIR$/processor/src/main/resources/META-INF" />
+    </key>
+    <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="number1.start" />
+      <recent name="number1.start.domain" />
+      <recent name="com.test.number1" />
+      <recent name="com.test.number1.domain" />
+      <recent name="com.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'StateOfArt.processor.test'">
+    <configuration name="MapperClassTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":processor:test" />
+            <option value="--tests" />
+            <option value="&quot;MapperClassTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="StateOfArt [cleanBuildWithKspDebug]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="cleanBuildWithKspDebug" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="StateOfArt [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'StateOfArt.processor.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":processor:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.MainKt" />
+      <module name="StateOfArt.project.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="remote " type="Remote">
+      <module name="StateOfArt" />
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="true" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="5005" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Tests in 'StateOfArt.processor.test'" />
+      <item itemvalue="Gradle.StateOfArt [clean]" />
+      <item itemvalue="Gradle.MapperClassTest" />
+      <item itemvalue="Gradle.StateOfArt [cleanBuildWithKspDebug]" />
+      <item itemvalue="Kotlin.MainKt" />
+      <item itemvalue="Remote JVM Debug.remote " />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'StateOfArt.processor.test'" />
+        <item itemvalue="Gradle.StateOfArt [clean]" />
+        <item itemvalue="Gradle.MapperClassTest" />
+        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Gradle.StateOfArt [cleanBuildWithKspDebug]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56bb7879-36a8-445e-8b35-afcdd3f20bb5" name="Changes" comment="" />
+      <created>1727115841972</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727115841972</updated>
+      <workItem from="1727115843034" duration="8206000" />
+      <workItem from="1727178660236" duration="9000" />
+      <workItem from="1727178675598" duration="522000" />
+      <workItem from="1727206091545" duration="8005000" />
+      <workItem from="1727249239834" duration="3600000" />
+      <workItem from="1727271482784" duration="1283000" />
+      <workItem from="1727273807569" duration="625000" />
+      <workItem from="1727274911775" duration="28398000" />
+      <workItem from="1727643903211" duration="227000" />
+      <workItem from="1727682353059" duration="7000" />
+      <workItem from="1727723452067" duration="7571000" />
+      <workItem from="1728135576198" duration="3380000" />
+      <workItem from="1728147664845" duration="36000" />
+      <workItem from="1728147707760" duration="13917000" />
+      <workItem from="1728234848570" duration="3675000" />
+      <workItem from="1728286530058" duration="412000" />
+      <workItem from="1728293228397" duration="87000" />
+      <workItem from="1728459998387" duration="5495000" />
+      <workItem from="1728555315654" duration="2100000" />
+      <workItem from="1728891715200" duration="46000" />
+      <workItem from="1728891771523" duration="467000" />
+      <workItem from="1732560888441" duration="49000" />
+      <workItem from="1735395769652" duration="2074000" />
+      <workItem from="1735512700818" duration="51000" />
+      <workItem from="1736329381348" duration="1573000" />
+      <workItem from="1736457879776" duration="899000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/processor/src/main/kotlin/MapperProcessorProvider.kt</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="val filteredList = returnType.filterNot { it in mapString.keys }&#10;        val result = filteredList.filterNot { it in returnType }" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
